@@ -1,0 +1,16 @@
+{
+  "name": "MAKEBOT",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/phulin/MAKEBOT",
+  "author": "Patrick Hulin",
+  "license": "MIT",
+  "dependencies": {
+    "kol-chatbot": "^1.0.2"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "^18.8.3",
+    "prettier": "^2.7.1"
+  }
+}
